@@ -8,7 +8,7 @@ public class crearfile {
         //String
 
 
-        String dir ="C:\ULHI\DAM\AD";
+        String dir ="C:\\Intellij 2ºDAM\\Acceso a Datos\\AccesoDatos";
 
 
         File
