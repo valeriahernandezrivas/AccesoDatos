@@ -1,5 +1,5 @@
 import java.io.*;
-public class crearfile {
+public class Entrada {
 
     public
     static void main(String[] args) {
